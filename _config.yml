@@ -26,7 +26,7 @@ twitter:
   card: summary
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://paulsammel.com" # the base hostname & protocol for your site, e.g. http://example.com
 imprint_url: ""
 
 permalink: /:title
